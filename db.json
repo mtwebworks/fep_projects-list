@@ -1,4 +1,4 @@
-[
+{[
   {
     "id": 1,
     "projectName": "Zabudowany bus",
@@ -28,4 +28,4 @@
     "description": "Timetracker app allows to track your daily workflow and helps count the amount of time you spend on different tasks, and various activities.",
     "tech": "RWD, HTML, CSS, BEM, JavaScript"
   }
-]
+]}
